@@ -1,0 +1,50 @@
+[
+  {
+    "firId": "FIR-2026-001",
+    "complainantName": "Ramesh K. Trivedi",
+    "complainantPhone": "+91 9825123456",
+    "complainantAddress": "Tagore Road, Rajkot",
+    "crimeCategory": "Armed Robbery",
+    "ipcSection": "IPC 392, 397",
+    "incidentDate": "24/10/2026",
+    "incidentLocation": "Tagore Road Jewelry Market, Rajkot",
+    "suspectDetails": "Two unidentified masked men riding black Pulsar",
+    "description": "Two assailants barged into shop, threatened staff with country-made pistol, and looted ornaments worth Rs. 8,50,000.",
+    "policeStation": "Rajkot Crime Branch HQ",
+    "investigatingOfficer": "PI M. S. Gohil",
+    "status": "Under Investigation",
+    "registrationDate": "31/10/2026 10:29"
+  },
+  {
+    "firId": "FIR-2026-002",
+    "complainantName": "Sunita M. Patel",
+    "complainantPhone": "+91 9426876543",
+    "complainantAddress": "150ft Ring Road, Rajkot",
+    "crimeCategory": "Cyber Financial Fraud",
+    "ipcSection": "IPC 420, IT Act Sec 66D",
+    "incidentDate": "18/10/2026",
+    "incidentLocation": "Online Banking Transaction",
+    "suspectDetails": "Linked to syndicate associated with Asif Sheikh",
+    "description": "Complainant was deceived by phishing SMS purporting to update electricity KYC, resulting in unauthorized debit of Rs 4,50,000.",
+    "policeStation": "Cyber Crime Police Station, Rajkot",
+    "investigatingOfficer": "PSI R. B. Zala",
+    "status": "Chargesheeted",
+    "registrationDate": "31/10/2026 10:29"
+  },
+  {
+    "firId": "FIR-2026-003",
+    "complainantName": "Hitesh D. Shah",
+    "complainantPhone": "+91 9909234567",
+    "complainantAddress": "Dhebar Road, Rajkot",
+    "crimeCategory": "Criminal Intimidation & Extortion",
+    "ipcSection": "IPC 384, 506",
+    "incidentDate": "02/10/2026",
+    "incidentLocation": "Commercial Complex, Dhebar Road",
+    "suspectDetails": "Associates of Karan Devraj Jadeja",
+    "description": "Complainant received extortion threats demanding Rs. 10 Lakhs protection fee. Audio recordings submitted as evidence.",
+    "policeStation": "Rajkot Crime Branch HQ",
+    "investigatingOfficer": "SP Vikram Rathore",
+    "status": "Closed",
+    "registrationDate": "31/10/2026 10:29"
+  }
+]

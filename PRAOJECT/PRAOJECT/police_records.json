@@ -1,0 +1,117 @@
+[
+  {
+    "criminalId": "RCB-2024-089",
+    "name": "Karan Devraj Jadeja",
+    "age": "32",
+    "height": "5'11\" (180 cm)",
+    "address": "Block C-14, Green City, 150ft Ring Road, Rajkot",
+    "photoPath": "Screenshot 2026-08-30 110346.png",
+    "crimeRecords": [
+      {
+        "recordId": "CR-8901",
+        "reasonForArrest": "Armed Extortion & Assault",
+        "implementedSection": "IPC 384, 386, 324 (Extortion by putting a person in fear of death)",
+        "crimeLocation": "Yagnik Road, Rajkot",
+        "partnerNames": "Pravin Solanki, Dilip Gohel",
+        "gangName": "Saurashtra Syndicate",
+        "imprisonmentFrom": "12/03/2024",
+        "imprisonmentTo": "15/12/2027",
+        "officerRank": "SP",
+        "officerName": "Vikram Rathore",
+        "custodyStatus": "In Judicial Custody"
+      }
+    ]
+  },
+  {
+    "criminalId": "RCB-2023-042",
+    "name": "Vikram Sinh Vaghela",
+    "age": "36",
+    "height": "6'0\" (183 cm)",
+    "address": "Plot 78, Rajput Para Street 4, Rajkot",
+    "photoPath": "Screenshot 2026-08-30 110406.png",
+    "crimeRecords": [
+      {
+        "recordId": "CR-4201",
+        "reasonForArrest": "Bank Robbery & Arms Act",
+        "implementedSection": "IPC 395, 397 (Dacoity with deadly weapon), Arms Act Sec 25",
+        "crimeLocation": "Dhebar Road, Rajkot",
+        "partnerNames": "Jaydeepsinh Zala",
+        "gangName": "Vaghela Brothers Gang",
+        "imprisonmentFrom": "10/01/2023",
+        "imprisonmentTo": "10/01/2025",
+        "officerRank": "SSP",
+        "officerName": "A. K. Sharma",
+        "custodyStatus": "Released"
+      }
+    ]
+  },
+  {
+    "criminalId": "RCB-2025-115",
+    "name": "Asif Mohammad Sheikh",
+    "age": "29",
+    "height": "5'9\" (175 cm)",
+    "address": "Near Raiya Telephone Exchange, Raiya Road, Rajkot",
+    "photoPath": "Screenshot 2026-08-30 110427.png",
+    "crimeRecords": [
+      {
+        "recordId": "CR-1151",
+        "reasonForArrest": "Cyber Extortion & Hawala Fraud",
+        "implementedSection": "IPC 420, 120B & IT Act Sec 66D (Cheating by personation using computer)",
+        "crimeLocation": "Gondal Road Cyber Hub, Rajkot",
+        "partnerNames": "Riyaz Memon",
+        "gangName": "Digital Shadow Network",
+        "imprisonmentFrom": "05/08/2025",
+        "imprisonmentTo": "05/08/2028",
+        "officerRank": "PI",
+        "officerName": "K. L. Parmar",
+        "custodyStatus": "In Judicial Custody"
+      }
+    ]
+  },
+  {
+    "criminalId": "RCB-2026-101",
+    "name": "vcxzxcbv",
+    "age": "cvxbx",
+    "height": "",
+    "address": "xbvvc",
+    "photoPath": "Screenshot 2026-08-30 110406.png",
+    "crimeRecords": [
+      {
+        "recordId": "CR-53578",
+        "reasonForArrest": "cvgh",
+        "implementedSection": "dndfn",
+        "crimeLocation": "vcxbxb",
+        "partnerNames": "dndn",
+        "gangName": "fddf",
+        "imprisonmentFrom": "30/08/2026",
+        "imprisonmentTo": "30/08/2029",
+        "officerRank": "PI",
+        "officerName": "",
+        "custodyStatus": "In Judicial Custody"
+      }
+    ]
+  },
+  {
+    "criminalId": "RCB-2026-102",
+    "name": "jack",
+    "age": "25",
+    "height": "180cm",
+    "address": "rajkot",
+    "photoPath": "Screenshot 2026-08-30 110346.png",
+    "crimeRecords": [
+      {
+        "recordId": "CR-43448",
+        "reasonForArrest": "murder",
+        "implementedSection": "NA",
+        "crimeLocation": "D-mart",
+        "partnerNames": "sonu diwana",
+        "gangName": "NA",
+        "imprisonmentFrom": "28/08/2026",
+        "imprisonmentTo": "30/08/2029",
+        "officerRank": "PI",
+        "officerName": "Rajesh malothara",
+        "custodyStatus": "In Judicial Custody"
+      }
+    ]
+  }
+]
